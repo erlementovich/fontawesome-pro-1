@@ -11,4 +11,5 @@
 @import "~@fortawesome/fontawesome-pro/css/all.css";
 @import "~@fortawesome/fontawesome-pro/css/brands.css";
 ```
-3. Далее используем официальный сайт [fontawesome.com](https://fontawesome.com)
+3. `yarn` или `npm install` 
+4. Далее используем официальный сайт [fontawesome.com](https://fontawesome.com)
