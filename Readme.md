@@ -1,2 +1,2 @@
 # Fontawesome-pro
-Добавить в package json своего проекта
+Добавить в package.json своего проекта
