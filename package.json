@@ -1,0 +1,26 @@
+{
+  "description": "The iconic font, CSS, and SVG framework",
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome",
+    "icon",
+    "svg",
+    "bootstrap"
+  ],
+  "author": {
+    "name": "Startted"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:erlementovich/fontawesome-pro.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {},
+  "version": "1.0.0",
+  "name": "@fontawesome-pro/fontawesome-pro",
+  "main": "js/fontawesome.js",
+  "style": "css/fontawesome.css"
+}
