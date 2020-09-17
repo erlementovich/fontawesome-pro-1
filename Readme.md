@@ -3,7 +3,7 @@
   ```json
 "dependencies": {
      "@fortawesome/fontawesome-free": "^5.14.0",
-     "@fortawesome/fontawesome-pro": "git+ssh://git@github.com:erlementovich/fontawesome-pro.git#master"
+     "@fortawesome/fontawesome-pro": "git+ssh://git@github.com:gmate36/fontawesome-pro.git#master"
    }
 ```
 2. В `main.scss` своего проекта добавляем: 
