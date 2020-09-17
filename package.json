@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:erlementovich/fontawesome-pro.git"
+    "url": "git@github.com:gmate36/fontawesome-pro.git"
   },
   "engines": {
     "node": ">=6"
